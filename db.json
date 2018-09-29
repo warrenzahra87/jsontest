@@ -1,6 +1,20 @@
 {
-  "masterProducts": [
-    "TUNA","WATER","PEANUT BUTTER","KITKAT","CRIPS"
+  "masterProducts": [{
+    "masterName":"TUNA",
+    "detail":"These are tuna chunks"
+  },{
+    "masterName":"WATER",
+    "detail":" these are bottles not bottle packs"
+  },{
+    "masterName":"PEANUT BUTTER",
+    "detail":"peanut butter smoooth"
+  },{
+    "masterName":"BUTTER",
+    "detail":"not margarine"
+  },{
+    "masterName":"KITKAT",
+    "detail":"small kitkat"
+  }
   ],
   "products": [
     {

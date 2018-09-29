@@ -1,11 +1,28 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "masterProducts": [
+    "TUNA","WATER","PEANUT BUTTER","KITKAT","CRIPS"
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+    {
+      "masterProduct": "TUNA",
+      "supermarket": "LIDL",
+      "brand": "Elite",
+      "price": 2.13,
+      "description": "this is a desc"
+    },
+    {
+      "masterProduct": "TUNA",
+      "supermarket": "Pavi",
+      "brand": "Elite",
+      "price": 1.32,
+      "description": "this is a desc"
+    },
+    {
+      "masterProduct": "TUNA",
+      "supermarket": "Pama",
+      "brand": "Elite",
+      "price": 0.23,
+      "description": "this is a desc"
+    }
+    ]
 }

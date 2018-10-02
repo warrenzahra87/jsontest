@@ -1,22 +1,28 @@
 {
   "masterProducts": [{
     "masterName":"TUNA",
-    "detail":"These are tuna chunks"
+    "detail":"These are tuna chunks",
+    "imagePath":"/img/tuna.png"
   },{
     "masterName":"WATER",
-    "detail":" these are bottles not bottle packs"
+    "detail":" these are bottles not bottle packs",
+    "imagePath":"/img/water.png"
   },{
     "masterName":"PEANUT BUTTER",
-    "detail":"peanut butter smoooth"
+    "detail":"peanut butter smoooth",
+    "imagePath":"/img/peanutButter.png"
   },{
     "masterName":"BUTTER",
-    "detail":"not margarine"
+    "detail":"not margarine",
+    "imagePath":"/img/Butter.png"
   },{
     "masterName":"KITKAT",
-    "detail":"small kitkat"
+    "detail":"small kitkat",
+    "imagePath":"/img/KitKat.png"
   },{
     "masterName":"Coca Cola",
-    "detail": "both 1L and 500ml bottles"
+    "detail": "both 1L and 500ml bottles",
+    "imagePath":"/img/Coca.png"    
   }
   ],
   "products": [

@@ -14,15 +14,15 @@
   },{
     "masterName":"BUTTER",
     "detail":"not margarine",
-    "imagePath":"/img/Butter.png"
+    "imagePath":"/img/butter.png"
   },{
     "masterName":"KITKAT",
     "detail":"small kitkat",
-    "imagePath":"/img/KitKat.png"
+    "imagePath":"/img/kitKat.png"
   },{
     "masterName":"Coca Cola",
     "detail": "both 1L and 500ml bottles",
-    "imagePath":"/img/Coca.png"    
+    "imagePath":"/img/cocaCola.png"    
   }
   ],
   "products": [
